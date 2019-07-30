@@ -1,3 +1,7 @@
+# By Brian Kim, July 28, 2019
+# Freehand ROI Module for use with PyQtGraph
+
+
 import numpy as np
 import pyqtgraph as pg
 
